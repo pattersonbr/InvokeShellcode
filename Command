@@ -1,0 +1,1 @@
+C:\Temp\GFS.exe -f C:\Temp\Stuff.ps1
