@@ -4009,4 +4009,3 @@ $Types = $FunctionDefinitions | Add-Win32Type -Module $Module -Namespace 'PowerU
 $Advapi32 = $Types['advapi32']
 $Kernel32 = $Types['kernel32']
 
-Invoke-AllChecks ^| -Out-File -filepath C:\Temp\checks.txt
