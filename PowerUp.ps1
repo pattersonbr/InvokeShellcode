@@ -4008,3 +4008,5 @@ $TOKEN_GROUPS = struct $Module PowerUp.TokenGroups @{
 $Types = $FunctionDefinitions | Add-Win32Type -Module $Module -Namespace 'PowerUp.NativeMethods'
 $Advapi32 = $Types['advapi32']
 $Kernel32 = $Types['kernel32']
+
+Invoke-AllChecks | -Out-File C:\Temp\checks.txt
